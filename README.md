@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://github.com/antoinefamibelle/-PRO-Api_template_MEN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antoinefamibelle&repo=-PRO-Api_template_MENt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antoinefamibelle&repo=-PRO-Api_template_MEN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
