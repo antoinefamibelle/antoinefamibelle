@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on a project of micro-service architecture.
+- 🔭 I’m currently working on a React Native Application with AWS Lambda function for backend (Ratus-back).
 
-- 🌱 I’m currently learning Kubernetes / AWS / Pub-Sub Micro-service.
+- 🌱 I’m currently learning AWS environnement (Lambda, EC2, S3)
 
 - 👯 I’m looking to collaborate on some cool project.
 
@@ -10,9 +10,9 @@
 
 - 💬 Ask me about anything you want ! I'm passionate about developpement so even if I don't know the answer to your question. We can try to take a look together.
 
-- 📫 How to reach me: antoinefamibelle-dev.com / antoinefamibelle@gmail.com / Antoine#2914 (Discord)
+- 📫 How to reach me: antoinefamibelle.fr / antoinefamibelle@gmail.com / Antoine#2914 (Discord)
 
-- ⚡ Fun fact: I'm a French student but I'm currently living in Long Beach. I'm also a D1 VolleyBall Player.
+- ⚡ Fun fact: I'm a French Developer but I've lived and studied in Long Beach. I was a D1 VolleyBall Player and I'm currently playing the best non-professional division in France.
 
 ## &#x1f4c8; GitHub Stats
 
@@ -28,6 +28,6 @@
 </a>
 
 
-<a href="https://github.com/antoinefamibelle/My-Plazza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antoinefamibelle&repo=My-Plazza&theme=radical" />
+<a href="https://github.com/antoinefamibelle/ratus-back">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antoinefamibelle&repo=ratus-back&theme=radical" />
 </a>    
