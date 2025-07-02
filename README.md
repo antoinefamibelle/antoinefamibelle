@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on a React Native Application with AWS Lambda function for backend (Ratus-back).
+- 🔭 I’m currently working on a React.js backoffice, React Native Mobile App and AWS Lambda solution for franchise of a wellness center Nüdiet.
 
 - 🌱 I’m currently learning AWS environnement (Lambda, EC2, S3)
 
